@@ -12,4 +12,5 @@ After certain amount of points the pipes are tighter and starting to move.
 
 ![flappybirdgif](https://user-images.githubusercontent.com/33668566/179264107-d1180778-db47-4a71-baa1-5b3050595b07.gif)
 
-
+## How to play?
+The builds folder contains versions for Windows and Android. Simply download one of them for your desired platform. 
